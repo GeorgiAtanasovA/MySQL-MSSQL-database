@@ -1,4 +1,4 @@
--- 0. Задача - създаване на таблица
+-- Създаване на таблица
 
 -- DROP DATABASE IF EXISTS `buhtig`;
 CREATE DATABASE IF NOT EXISTS `buhtig`;
