@@ -1,7 +1,0 @@
-CREATE TABLE minions
-(
-id INT NOT NULL,
-name VARCHAR(50) NOT NULL,
-age INT,
-CONSTRAINT pk_minions PRIMARY KEY(id)
-);
