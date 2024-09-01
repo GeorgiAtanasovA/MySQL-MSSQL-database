@@ -1,0 +1,36 @@
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\obj\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\ConnectionString\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\obj\Debug\ConnectionString.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\ConnectionString\obj\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\obj\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\ConnectionString\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ConnectionString\obj\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\ConnectionString\obj\Debug\ConnectionString.pdb

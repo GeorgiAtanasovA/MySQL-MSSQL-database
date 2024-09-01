@@ -1,0 +1,52 @@
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\obj\Debug\8. Increase Minion Age.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.CodeAnalysisLog.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.lastcodeanalysissucceeded
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\8. Increase Minion Age.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\8. Increase Minion Age.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\8. Increase Minion Age\obj\Debug\8. Increase Minion Age.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\_8.Increase_Minion_Age.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\obj\Debug\8. Increase Minion Age.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\8. Increase Minion Age\obj\Debug\_8.Increase_Minion_Age.pdb
