@@ -1,4 +1,4 @@
-#16. Filter Extensions
+#Filter Extensions
 #Create a stored procedure udp_findbyextension which accepts the following parameters:
 # extension
 #And extracts all files that have the given extension. (like index.html for example)
