@@ -16,7 +16,7 @@ namespace _5.Change_Town_Names_Casing
          // Print the number of towns that were changed in the format "<ChangedTownsCount> town names were affected.".
          // On a second line, print the names that were changed, separated with a comma and a space.
          // If no towns were affected(the country does not exist in the database or has no cities connected to it), print "No town names were affected.".
-         // ------ Решена ------
+   
 
          string selectALLCountries = "SELECT * FROM MinionsDB.dbo.Countries";
          string SQLcommandStr_SELECT_Аffected = "SELECT Towns.Name FROM MinionsDB.dbo.Towns JOIN MinionsDB.dbo.Countries ON Countries.Id = Towns.CountryCode WHERE Countries.Name = @countryName";
