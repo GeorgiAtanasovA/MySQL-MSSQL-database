@@ -11,9 +11,7 @@ namespace _3.Minion_Names
          //string str1 = (string)obj; //Не работи с INT
          //string str2 = obj.ToString(); //Не работи с NULL
          string str3 = Convert.ToString(obj); //Това е най-добрия метод
-         // Кастване и конвертиране към string - не е към задачата
-
-
+         
 
          Console.Title = "3. Minion Names - ADO.NET";
          //   3.Minion Names
