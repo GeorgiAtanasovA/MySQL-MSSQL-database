@@ -25,7 +25,7 @@ namespace _1_Initial_Setup
          //     EvilnessFactors
          //     Villains
          //     MinionsVillains
-         //------- Решена --------
+       
 
          string ifDB_ExistsDrop = @"IF EXISTS(SELECT name FROM sys.databases WHERE name = 'MinionsDB') DROP DATABASE MinionsDB ";
 
