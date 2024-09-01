@@ -9,7 +9,7 @@ namespace my_first_SQL_program
       {
          Console.Title = "My First C#-DB-SQL Connection Program - ADO.NET";
 
-         // ------ Моята първа програма за връзка с база данни ----- Това е ADO.NET програма
+         // ------ Моята първа програма за връзка с база данни ----- ADO.NET програма
          Console.WriteLine("Моята първа програма за връзка с база данни");
          Console.WriteLine("SELECT * FROM Minions; - команда");
 
