@@ -12,7 +12,7 @@ namespace _8.Increase_Minion_Age
          //  8. Increase Minion Age
          //Read from the console minion IDs separated by space.Increment the age of those minions by 1 and make their names title case. 
          //Finally, print the name and the age of all minions in the database, each on a new row in format "<Name> <Age>".
-         // ------------- Решена -------------
+      
 
          Console.WriteLine(" Increase Minion Age. Select Minions IDs.");
          PrintAllMinions("SELECT Id, Name, Age FROM Minions", SQLconnectionStr.connectionStr);
