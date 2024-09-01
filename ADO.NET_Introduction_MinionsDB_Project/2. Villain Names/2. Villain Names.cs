@@ -11,7 +11,7 @@ namespace _2.Villain_Names
 
          //   2.Villain Names
          //Write a program that prints on the console all villains’ names and their number of minions of those who have more than 3 minions ordered descending by number of minions.
-         //------- Решена --------
+      
 
          string SQLconnectionStr = @"Server=GeorgiAcerV3;Database=;Integrated Security=true";
          string SQLcommandStr = @"SELECT Name, COUNT(VillainId) AS 'Count'
