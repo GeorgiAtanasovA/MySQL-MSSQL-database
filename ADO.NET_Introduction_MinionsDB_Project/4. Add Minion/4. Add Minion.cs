@@ -26,7 +26,7 @@ namespace _4.Add_Minion
          //   •	 After adding a new villain to the database: "Villain <VillainName> was added to the database."
          //   •	 Finally, after successfully adding the minion to the database and making it a servant of a villain: "Successfully added <MinionName> to be minion of <VillainName>."
          /// * Bonus task: Make sure all operations are executed successfully. In case of an error do not change the database. -- Не е решено
-         // ------ Решена - без бонуса ------
+       
 
          Console.WriteLine("Write the minion's data and its villain's name!");
          Console.WriteLine("        Name  Age  TownName");
