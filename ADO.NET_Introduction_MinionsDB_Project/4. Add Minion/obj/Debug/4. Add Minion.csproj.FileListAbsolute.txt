@@ -1,0 +1,63 @@
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\4. Add Minion\obj\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\obj\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\4. Add Minion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\obj\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\_4.Add_Minion.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\_4.Add_Minion.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\obj\Debug\4. Add Minion.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\obj\Debug\_4.Add_Minion.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\4. Add Minion\obj\Debug\_4.Add_Minion.pdb

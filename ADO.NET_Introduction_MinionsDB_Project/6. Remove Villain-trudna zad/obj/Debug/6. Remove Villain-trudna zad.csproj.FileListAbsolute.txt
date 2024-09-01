@@ -1,0 +1,43 @@
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.CodeAnalysisLog.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.lastcodeanalysissucceeded
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\obj\Debug\6. Remove Villain-trudna zad.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\6. Remove Villain-trudna zad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\6. Remove Villain-trudna zad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\bin\Debug\_6.Remove_Villain_trudna_zad.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\6. Remove Villain-trudna zad\obj\Debug\_6.Remove_Villain_trudna_zad.pdb

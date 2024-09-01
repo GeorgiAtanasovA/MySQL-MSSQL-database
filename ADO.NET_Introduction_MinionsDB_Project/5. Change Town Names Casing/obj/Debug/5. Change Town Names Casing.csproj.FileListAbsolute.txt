@@ -1,0 +1,60 @@
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.CodeAnalysisLog.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\Introduction to DB Apps - C#\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.lastcodeanalysissucceeded
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV1\Documents\Visual Studio 2015\Projects\5 - SQL Data Base\2 - DB Advanced\3. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Documents\Visual Studio 2015\Projects\5 - MySQL Data Base\2 - DB Advanced\3. 4. DB APPS INTRODUCTION\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe.config
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\_5.Change_Town_Names_Casing.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\ConnectionString.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\System.Data.Common.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\bin\Debug\ConnectionString.pdb
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\obj\Debug\5. Change Town Names Casing.csprojResolveAssemblyReference.cache
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.exe
+C:\Users\GeorgiV3\Desktop\Programi za GitHub\MSSQL Console Apps\ADO.NET_Introduction\5. Change Town Names Casing\obj\Debug\_5.Change_Town_Names_Casing.pdb
