@@ -14,7 +14,7 @@ namespace _9.Incrs_Age_Stored_Prcdr
          //that receives MinionId and increases that minion’s age by 1.
          //Write a program that uses that stored procedure to increase the age of a minion whose id will be given as input from the console.
          //After that print the name and the age of that minion.
-         ///-----Решена - но update-ва само по един миньон а трябва по няколко
+         
 
          SqlConnection SQLconnection;
          SqlCommand SQLcommand;
